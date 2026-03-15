@@ -347,17 +347,17 @@ def banner():
     """Display the script banner."""
     clear_screen()
     print(f"""{G}
-  █████      ███      █████      ███      ██   ██      █████
-    ██      ██ ██       ██      ██ ██     ██   ██         ██
-    ██     ███████      ██     ███████    ██   ██        ██
-██  ██     ██   ██   ██  ██    ██   ██     ██ ██        ██
- ████      ██   ██    ████     ██   ██      ███        █████                       
+     ██       █████      ███    ███      ██   ███████
+     ██      ██   ██     ████  ████      ██   ██
+     ██      ███████     ██ ████ ██      ██   █████
+██   ██      ██   ██     ██  ██  ██      ██   ██
+ █████       ██   ██     ██      ██      ██   ███████                
         {W}I      {R}M   {W}Y      {R}S   {W}M {R}X    D
 {W}─────────────────────────────────────────────{W}
-{W}[{G}•{W}]{G} SCRIPT {W}:{G} JRJ2026
-{W}[{G}•{W}]{G} FACEBOOK {W}:{G} John Ryan Javinez
-{W}[{G}•{W}]{G} GITHUB   {W}:{G} secret
-{W}[{G}•{W}]{G} TOOL     {W}:{G} AUTO CREATE Jajavz
+{W}[{G}•{W}]{G} SCRIPT {W}:{G} JAMIE2026
+{W}[{G}•{W}]{G} FACEBOOK {W}:{G} Jamie Sylva
+{W}[{G}•{W}]{G} GITHUB   {W}:{G} J4M13
+{W}[{G}•{W}]{G} TOOL     {W}:{G} FBAuto Create - Jamie
 {W}─────────────────────────────────────────────{W}""")
 
 def linex():
